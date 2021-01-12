@@ -4,7 +4,6 @@ github地址：[基于React的音乐播放器](https://github.com/zhangZhiHao199
 预览地址：[预览地址(窗口大小变化时请刷新一下页面)](http://47.99.130.140/react-music/#/find)  
 接口地址：[网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi)
 <hr/>
-
 ### 技术栈
  - react 
  - react-router
@@ -86,7 +85,7 @@ github地址：[基于React的音乐播放器](https://github.com/zhangZhiHao199
 首先克隆本项目
 
 ```shell
-git clone https://github.com/zhangZhiHao1996/react-music-master.git
+git clone https://github.com/zhufuxiang72/React-music.git
 ```
 
 进入项目并安装依赖然后运行项目
